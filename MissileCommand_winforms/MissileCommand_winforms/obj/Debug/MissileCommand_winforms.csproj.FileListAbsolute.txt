@@ -1,0 +1,9 @@
+c:\users\andy\documents\visual studio 2015\Projects\MissileCommand_winforms\MissileCommand_winforms\bin\Debug\MissileCommand_winforms.exe.config
+C:\Users\Andy\Documents\Visual Studio 2015\Projects\MissileCommand_winforms\MissileCommand_winforms\bin\Debug\MissileCommand_winforms.exe
+C:\Users\Andy\Documents\Visual Studio 2015\Projects\MissileCommand_winforms\MissileCommand_winforms\bin\Debug\MissileCommand_winforms.pdb
+C:\Users\Andy\Documents\Visual Studio 2015\Projects\MissileCommand_winforms\MissileCommand_winforms\obj\Debug\MissileCommand_winforms.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\Visual Studio 2015\Projects\MissileCommand_winforms\MissileCommand_winforms\obj\Debug\MissileCommand_winforms.Form1.resources
+C:\Users\Andy\Documents\Visual Studio 2015\Projects\MissileCommand_winforms\MissileCommand_winforms\obj\Debug\MissileCommand_winforms.Properties.Resources.resources
+C:\Users\Andy\Documents\Visual Studio 2015\Projects\MissileCommand_winforms\MissileCommand_winforms\obj\Debug\MissileCommand_winforms.csproj.GenerateResource.Cache
+C:\Users\Andy\Documents\Visual Studio 2015\Projects\MissileCommand_winforms\MissileCommand_winforms\obj\Debug\MissileCommand_winforms.exe
+C:\Users\Andy\Documents\Visual Studio 2015\Projects\MissileCommand_winforms\MissileCommand_winforms\obj\Debug\MissileCommand_winforms.pdb
